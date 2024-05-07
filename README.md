@@ -13,6 +13,8 @@ The SCRIPTS folder can be found here: [Scripts](/SCRIPTS). It contains the final
 ## SOURCES
 The SOURCES folder can be found here: [Sources](/SOURCES). It contains two articles from the CDC that provide background on the topic of COVID-19, which is further discussed in the hook document. These sources will also be cited below in the proper IEEE format.
 
+## MISCELLANEOUS
+
 The hook document can be found here: [Hook Document](/Hook_Document.pdf). It contains the context and motivation behind the case study, as well as a high-level description of the deliverables.
 
 The rubric can be found here: [Rubric](/Rubric.pdf). It contains a thoroughly detailed explanation of the project. Here, all the expectations of the deliverables are fully laid out.
